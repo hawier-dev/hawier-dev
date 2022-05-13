@@ -22,3 +22,6 @@
 [&nbsp;&nbsp;<img alt="Arch Linux" title="Arch" height="24" width="24" src="assets/archlinux.svg">&nbsp;&nbsp;](https://archlinux.org/)
 [&nbsp;&nbsp;<img alt="Ubuntu" title="Ubuntu" height="24" width="24" src="assets/ubuntu.svg">&nbsp;&nbsp;](https://ubuntu.com/)
 [&nbsp;&nbsp;<img alt="Windows" title="Windows" height="24" width="24" src="assets/windows.svg">&nbsp;&nbsp;](https://www.microsoft.com/pl-pl/windows)
+
+## Github Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawier-dev)](https://github.com/anuraghazra/github-readme-stats)
