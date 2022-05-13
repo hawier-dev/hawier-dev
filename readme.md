@@ -1,13 +1,7 @@
 ## Hi there 👋, I'm Mikołaj Badyl
- **Connect with me:**
- <p align="left">
-  <a href="https://play.google.com/store/apps/dev?id=7820499561754221571">
-    <img alt="Google Play" title="GooglePlay" height="24" width="24" src="assets/googleplay.svg">
-  </a>
-   <a href="https://discordapp.com/users/412617753854345217">
-    <img alt="Discord" title="Discord" height="24" width="24" src="assets/discord.svg">
-  </a>
-</p>
+### Connect with me:
+[<img alt="Google Play" title="GooglePlay" height="24" width="24" src="assets/googleplay.svg">](https://play.google.com/store/apps/dev?id=7820499561754221571)
+[<img alt="Discord" title="Discord" height="24" width="24" src="assets/discord.svg">](https://discordapp.com/users/412617753854345217)
 
 <hr>
 
