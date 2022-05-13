@@ -6,7 +6,7 @@
 <hr>
 
 ### Languages and frameworks:
-[<span>&nbsp;&nbsp;</span><img alt="Dart" title="Dart" height="24" width="24" src="assets/dart.svg"><span>&nbsp;&nbsp;</span>](https://dart.dev/)
+[&nbsp;&nbsp;<img alt="Dart" title="Dart" height="24" width="24" src="assets/dart.svg">&nbsp;&nbsp;](https://dart.dev/)
 [&nbsp;&nbsp;<img alt="Flutter" title="Flutter" height="24" width="24" src="assets/flutter.svg">&nbsp;&nbsp;](https://flutter.dev/)
 [&nbsp;&nbsp;<img alt="Python" title="Python" height="24" width="24" src="assets/python.svg">&nbsp;&nbsp;](https://www.python.org/)
 [&nbsp;&nbsp;<img alt="Bash" title="Bash" height="24" width="24" src="assets/bash.svg">&nbsp;&nbsp;](https://www.gnu.org/software/bash/)
