@@ -1,4 +1,5 @@
 ## Hi there 👋, I'm Mikołaj Badyl
+ **Connect with me:**
  <p align="left">
   <a href="https://play.google.com/store/apps/dev?id=7820499561754221571">
     <img alt="Google Play" title="GooglePlay" height="24" width="24" src="assets/googleplay.svg">
@@ -13,7 +14,6 @@
 **Languages and frameworks:**
  <p align="left">
     <img alt="Dart" title="Dart" height="24" width="24" src="assets/dart.svg">
-    <p>   </p>
     <img alt="Flutter" title="Flutter" height="24" width="24" src="assets/flutter.svg">
     <img alt="Python" title="Python" height="24" width="24" src="assets/python.svg">
     <img alt="Bash" title="Bash" height="24" width="24" src="assets/bash.svg">
