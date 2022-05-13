@@ -12,15 +12,13 @@
 <hr>
 
 **Languages and frameworks:**
- <p align="left">
-    <img alt="Dart" title="Dart" height="24" width="24" src="assets/dart.svg">
-    <img alt="Flutter" title="Flutter" height="24" width="24" src="assets/flutter.svg">
-    <img alt="Python" title="Python" height="24" width="24" src="assets/python.svg">
-    <img alt="Bash" title="Bash" height="24" width="24" src="assets/bash.svg">
-    <img alt="HTML5" title="Html" height="24" width="24" src="assets/html.svg">
-    <img alt="CSS" title="Css" height="24" width="24" src="assets/css.svg">
-    <img alt="JavaScript" title="JavaScript" height="24" width="24" src="assets/js.svg">
-</p>
+<img alt="Dart" title="Dart" height="24" width="24" src="assets/dart.svg">
+<img alt="Flutter" title="Flutter" height="24" width="24" src="assets/flutter.svg">
+<img alt="Python" title="Python" height="24" width="24" src="assets/python.svg">
+<img alt="Bash" title="Bash" height="24" width="24" src="assets/bash.svg">
+<img alt="HTML5" title="Html" height="24" width="24" src="assets/html.svg">
+<img alt="CSS" title="Css" height="24" width="24" src="assets/css.svg">
+<img alt="JavaScript" title="JavaScript" height="24" width="24" src="assets/js.svg">
 
 **Tools:**
  <p align="left">
