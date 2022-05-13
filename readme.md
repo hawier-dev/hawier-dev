@@ -11,7 +11,7 @@
 
 <hr>
 
-**Languages and frameworks:**
+### Languages and frameworks:
 <img alt="Dart" title="Dart" height="24" width="24" src="assets/dart.svg">
 <img alt="Flutter" title="Flutter" height="24" width="24" src="assets/flutter.svg">
 <img alt="Python" title="Python" height="24" width="24" src="assets/python.svg">
