@@ -24,4 +24,4 @@
 [&nbsp;&nbsp;<img alt="Windows" title="Windows" height="24" width="24" src="assets/windows.svg">&nbsp;&nbsp;](https://www.microsoft.com/pl-pl/windows)
 
 ## Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawier-dev)](https://github.com/anuraghazra/github-readme-stats)
+![Mikołaj Badyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=hawier-dev&show_icons=true&theme=radical)
