@@ -1,6 +1,7 @@
 ## Hi there 👋, I'm Mikołaj Badyl
 ### Connect with me:
 [&nbsp;&nbsp;<img alt="Google Play" title="GooglePlay" height="24" width="24" src="assets/googleplay.svg">&nbsp;&nbsp;](https://play.google.com/store/apps/dev?id=7820499561754221571)
+[&nbsp;&nbsp;<img alt="Facebook" title="Facebook" height="24" width="24" src="assets/fb.svg">&nbsp;&nbsp;](https://www.facebook.com/mikolajbadyl/)
 [&nbsp;&nbsp;<img alt="Discord" title="Discord" height="24" width="24" src="assets/discord.svg">&nbsp;&nbsp;](https://discordapp.com/users/412617753854345217)
 
 <hr>
