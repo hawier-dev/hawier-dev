@@ -26,4 +26,4 @@
 [&nbsp;&nbsp;<img alt="Windows" title="Windows" height="24" width="24" src="assets/windows.svg">&nbsp;&nbsp;](https://www.microsoft.com/pl-pl/windows)
 
 ## Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawier-dev&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawier-dev&theme=dark)
