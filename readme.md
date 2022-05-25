@@ -15,7 +15,7 @@
 [&nbsp;&nbsp;<img alt="CSS" title="Css" height="24" width="24" src="assets/css.svg">&nbsp;&nbsp;]()
 [&nbsp;&nbsp;<img alt="JavaScript" title="JavaScript" height="24" width="24" src="assets/js.svg">&nbsp;&nbsp;]()
 
-<hr>
+<hr> 
 
 ### Tools:
 [&nbsp;&nbsp;<img alt="Visual Studio Code" title="vscode" height="24" width="24" src="assets/vscode.svg">&nbsp;&nbsp;](https://code.visualstudio.com/)
