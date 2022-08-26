@@ -1,8 +1,10 @@
-<h2>
-  Hi there! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Mikołaj Badyl
-</h2>
-<h3>About Me:</h3>
-- <p>I am a Full Stack Developer from Poland.</p>
-<h3>:hammer_and_wrench: Languages and Tools:</h3>
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Mikołaj Badyl
+
+### :godmode: About Me:
+- I am a Full Stack Developer from Poland.
+### :hammer_and_wrench: Languages and Tools:
+<div>
+  <img src="https://raw.githubusercontent.com/hawier-dev/hawier-dev/main/assets/dart.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/hawier-dev/hawier-dev/main/assets/flutter.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/hawier-dev/hawier-dev/main/assets/python.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+</div>
