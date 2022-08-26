@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm Mikołaj Badyl
 
 ### :godmode: About Me:
-- I am a Full Stack Developer from Poland.
+- I am a **Full Stack Developer** from Poland.
 ### :hammer_and_wrench: Languages and Tools:
 <div>
   <img src="https://raw.githubusercontent.com/hawier-dev/hawier-dev/main/assets/dart.svg" title="Dart" alt="Dart" width="30" height="30"/>&nbsp;
