@@ -1,4 +1,4 @@
-## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Mikołaj Badyl
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm Mikołaj Badyl
 
 ### :godmode: About Me:
 - I am a Full Stack Developer from Poland.
