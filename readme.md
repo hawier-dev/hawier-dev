@@ -4,5 +4,5 @@
   I'm Mikołaj Badyl
 </h2>
 <h3>About Me:</h3>
-<p>I am a Full Stack Developer from Poland.</p>
+- <p>I am a Full Stack Developer from Poland.</p>
 <h3>:hammer_and_wrench: Languages and Tools:</h3>
