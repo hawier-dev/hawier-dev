@@ -1,8 +1,8 @@
-<h1>
+<p>
   Hi there! 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Mikołaj Badyl
-</h1>
+  I'm <b>Mikołaj Badyl</b>
+</p>
 ### Connect with me:
 [&nbsp;&nbsp;<img alt="Google Play" title="GooglePlay" height="24" width="24" src="assets/googleplay.svg">&nbsp;&nbsp;](https://play.google.com/store/apps/dev?id=7820499561754221571)
 [&nbsp;&nbsp;<img alt="Facebook" title="Facebook" height="24" width="24" src="assets/fb.svg">&nbsp;&nbsp;](https://www.facebook.com/mikolajbadyl/)
