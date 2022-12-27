@@ -1,2 +1,5 @@
-## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/> I'm Mikołaj Badyl
-**Python/Flutter Developer** from Poland.
+## Hi 👋 I am Mikołaj!  
+I am a Python/Flutter developer from Poland.
+
+ - 🌐 Visit my [porfolio website](https://hawier.dev/) for complete background and contact. 
+ 
