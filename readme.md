@@ -1,3 +1,3 @@
 ## Hi 👋 I am Mikołaj!  
 
-I am a Python/Flutter developer from Poland.
+I am a Python developer from Poland.
